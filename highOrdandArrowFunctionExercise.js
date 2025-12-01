@@ -41,3 +41,5 @@ const findLongestWord = (arr) => {
 
         return arr.reduce((longest, current) => current.length> longest.length? current:longest )
 }
+
+
