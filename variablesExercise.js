@@ -18,8 +18,8 @@ Reminder
 
 */
 
-const a = 18;
-const b = 24;
+let a ;
+let b ;
 
 // Addition
 function add(a,b){
