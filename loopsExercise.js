@@ -51,8 +51,7 @@ function countVowels(str){
         if(vowels.includes(char)){
             
             count++;
-        }
-        
+        }        
     }
     return count;
 }
